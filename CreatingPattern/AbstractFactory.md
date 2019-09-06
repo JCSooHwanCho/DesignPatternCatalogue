@@ -1,4 +1,4 @@
-# 추상 팩토리(Abstract Factory) 
+# 추상 팩토리(Abstract Factory) - 객체 생성(Object Creational)
 
 * 의도 : 상세화된 서브클래스를 제공하지 않고도, 서로 관련성이 있거나 독립적인 여러 객체의 군을 생성하기 위한 인터페이스를 제공합니다.
 * 다른 이름 : 키트(Kit)
